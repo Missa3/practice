@@ -1,2 +1,10 @@
 apples
 flour
+
+backyard
+
+Garage
+
+Front yard
+
+Garden
