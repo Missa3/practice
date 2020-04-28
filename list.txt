@@ -8,3 +8,5 @@ Garage
 Front yard
 
 Garden
+
+livingroom
